@@ -1,11 +1,12 @@
 import React from 'react';
-import './App.css';
+
+import{ GlobalStyled } from './GlobalStyle';
 
 function App() {
   return (
-    <div >
-      Starting Todo project v01
-    </div>
+    <GlobalStyled >
+
+    </GlobalStyled>
   );
 }
 
