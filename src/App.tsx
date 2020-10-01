@@ -1,12 +1,14 @@
 import React from 'react';
 
-import{ GlobalStyled } from './GlobalStyle';
+import TodoWrapper from './components/TodoWrapper';
+
+import './App.css';
 
 function App() {
   return (
-    <GlobalStyled >
+    <TodoWrapper >
 
-    </GlobalStyled>
+    </TodoWrapper>
   );
 }
 
