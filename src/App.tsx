@@ -1,14 +1,14 @@
 import React from 'react';
 
-import TodoWrapper from './components/TodoWrapper';
+import TodoList from './components/TodoList';
 
 import './App.css';
 
 function App() {
   return (
-    <TodoWrapper >
+    <TodoList >
 
-    </TodoWrapper>
+    </TodoList>
   );
 }
 
